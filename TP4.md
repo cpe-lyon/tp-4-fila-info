@@ -12,7 +12,14 @@
 8. On peut en trouver avec la commande `apt-cache search sudoku` pour trouver des paquets concernant sudoku.
 
 # Exercice 2.
-
+La commande est `dpkg -S` et en une seule commande pour trouver le paquet de ls `dpkg -S $(which -a ls)`
+```bash
+#!/bin/bash
+find(){
+    dpkg -S $(which -a $1) ;
+}
+find $1;
+```
 # Exercice 3.
 # Exercice 4.
 # Exercice 5. aptitude
