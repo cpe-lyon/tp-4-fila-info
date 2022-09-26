@@ -24,6 +24,7 @@ find $1;
 On peut utiliser `dpkg -S [NomDePackage] | grep status && echo "INSTALLE" || echo "NON INSTALLE"`
 
 # Exercice 4.
+![image](https://user-images.githubusercontent.com/97104312/192247949-f6848cd7-1778-4bdc-b552-79b08726e836.png)
 
 # Exercice 5. aptitude
 # Exercice 6. Installation d’un paquet par PPA
