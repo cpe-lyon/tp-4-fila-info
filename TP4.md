@@ -46,3 +46,4 @@ Etapes pour installer des paquets avec **interface aptitude**
 
 
 # Exercice 8. Création de dépôt personnalisé
+![image](https://user-images.githubusercontent.com/97104312/193068055-82105398-557b-4cfd-982d-0ed9ea627f14.png)
