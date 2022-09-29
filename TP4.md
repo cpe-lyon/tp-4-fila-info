@@ -40,5 +40,9 @@ Etapes pour installer des paquets avec **interface aptitude**
 
 # Exercice 7. Installation d’un logiciel à partir du code source
 
+![image](https://user-images.githubusercontent.com/97104312/193065877-b21d71a6-d870-4dfa-839a-2f667ff97538.png)
+
+![image](https://user-images.githubusercontent.com/97104312/193065978-a38e32e8-c6a4-419b-8e95-92fac3bfd52a.png)
+
 
 # Exercice 8. Création de dépôt personnalisé
