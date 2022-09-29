@@ -34,8 +34,9 @@ Etapes pour installer des paquets avec **interface aptitude**
     -`/` pour chercher le paquet souhaité  
     -`!` ou `+` pour sélectionner le paquet  
     -`g` pour installer  
-# Exercice 6. Installation d’un paquet par PPA
 
+# Exercice 6. Installation d’un paquet par PPA
+2. Le fichier **/etc/apt/sources.list.d** contient tous dépôts de paquet.
 
 # Exercice 7. Installation d’un logiciel à partir du code source
 
