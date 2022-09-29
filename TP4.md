@@ -38,4 +38,6 @@ Etapes pour installer des paquets avec **interface aptitude**
 
 
 # Exercice 7. Installation d’un logiciel à partir du code source
+
+
 # Exercice 8. Création de dépôt personnalisé
