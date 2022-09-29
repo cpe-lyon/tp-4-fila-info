@@ -21,11 +21,13 @@ find(){
 find $1;
 ```
 # Exercice 3.
-On peut utiliser `dpkg -S [NomDePackage] | grep status && echo "INSTALLE" || echo "NON INSTALLE"`
+On peut utiliser `apt list [NomDePaquet] | grep "installed" && echo "INSTALLé" || echo "NON INSTALLé"`
+
+![image](https://user-images.githubusercontent.com/97104312/192953938-a9cb4af4-e1a7-4169-8380-78fe79b8d4b2.png)
 
 # Exercice 4.
-![image](https://user-images.githubusercontent.com/97104312/192247949-f6848cd7-1778-4bdc-b552-79b08726e836.png)
-
+Pour lister les programmes livré par coreutils on utilise: `dpkg -L coreutils | xargs which`  
+`[` est identique à la commande `test`: elle vérifie le type de fichier et comparer ses valeurs. 
 # Exercice 5. aptitude
 # Exercice 6. Installation d’un paquet par PPA
 # Exercice 7. Installation d’un logiciel à partir du code source
