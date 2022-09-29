@@ -29,6 +29,13 @@ On peut utiliser `apt list [NomDePaquet] | grep "installed" && echo "INSTALLé" 
 Pour lister les programmes livré par coreutils on utilise: `dpkg -L coreutils | xargs which`  
 `[` est identique à la commande `test`: elle vérifie le type de fichier et comparer ses valeurs. 
 # Exercice 5. aptitude
+Etapes pour installer des paquets avec **interface aptitude**  
+    -`sudo aptitude`  
+    -`/` pour chercher le paquet souhaité  
+    -`!` ou `+` pour sélectionner le paquet  
+    -`g` pour installer  
 # Exercice 6. Installation d’un paquet par PPA
+
+
 # Exercice 7. Installation d’un logiciel à partir du code source
 # Exercice 8. Création de dépôt personnalisé
