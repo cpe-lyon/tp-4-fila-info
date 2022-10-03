@@ -39,6 +39,8 @@ Etapes pour installer des paquets avec **interface aptitude**
 2. Le fichier **/etc/apt/sources.list.d** contient tous dépôts de paquet.
 
 # Exercice 7. Installation d’un logiciel à partir du code source
+![image](https://user-images.githubusercontent.com/97104312/193518902-e641f31d-6245-47d0-85a0-2eae71d6f7c2.png)
+
 ![image](https://user-images.githubusercontent.com/97104312/193518105-90bdc1a3-cce5-4619-94d4-5511c93958f0.png)
 
 # Exercice 8. Création de dépôt personnalisé
